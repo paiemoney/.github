@@ -13,6 +13,6 @@
 
 <!-- PIP List -->
 <ul>
-  <li><a href="https://github.com/paiemoney/paie/discussions/2">PIP-1: Localized On-Ramp</a> - Description of the proposal.</li>
+  <li><a href="https://github.com/paiemoney/paie/discussions/2">PIP-1: Localized On-Ramp</a> - On Ramp Web App</li>
   <!-- Add more PIPs here -->
 </ul>
