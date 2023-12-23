@@ -15,6 +15,6 @@
 <ul>
   <li><a href="https://github.com/paiemoney/paie/discussions/2">PIP-1: Localized On-Ramp</a></li>
   <li><a href="https://github.com/paiemoney/paie/discussions/3">PIP-2: Seedphrase-less Signup</a></li>
-  <li><a href="https://github.com/paiemoney/paie/discussions/4">PIP-3: Base L2 Integration</a></li>
+  <li><a href="https://github.com/paiemoney/paie/discussions/5">PIP-3: Build on Base</a></li>
   <!-- Add more PIPs here -->
 </ul>
