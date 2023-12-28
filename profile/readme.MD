@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">A Decentralized Money Market for Africa</h1>
+<h1 align="center">A sufficiently decentralized money market</h1>
 <p align="center">
   <a href="https://paie.money"><img width="100%" alt="Paie" src="https://raw.githubusercontent.com/paiemoney/.github/main/paie.png" /></a>
 </p>
